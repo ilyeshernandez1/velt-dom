@@ -1,0 +1,14 @@
+{
+  "name": "@ilyesh/reactive-dom",
+  "version": "0.0.1",
+  "description": "Add reactivity into any vanilla JavaScript or TypeScript project.",
+  "main": "dist/index.js",
+  "module": "dist/index.mjs",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
