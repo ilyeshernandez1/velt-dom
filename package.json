@@ -1,7 +1,7 @@
 {
-  "name": "@ilyesh/reactive-dom",
+  "name": "velt-dom",
   "version": "0.0.1",
-  "description": "Reactive DOM is a simple library for managing reactive states in TypeScript applications.",
+  "description": "Velt DOM is a simple library for managing reactive states in TypeScript applications.",
   "main": "library/dist/index.js",
   "module": "library/dist/index.mjs",
   "types": "library/dist/index.d.ts",

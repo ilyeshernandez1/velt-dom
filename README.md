@@ -1,6 +1,6 @@
-# [@ilyesh/reactive-dom]()
+# [Velt DOM](https://www.npmjs.com/package/velt-dom)
 
-Reactive DOM is a simple library for managing reactive states in TypeScript applications. It allows you to create and manage reactive data that automatically updates the user interface when values change. This library is designed to provide a straightforward way to build reactive applications.
+Velt DOM is a simple library for managing reactive states in TypeScript applications. It allows you to create and manage reactive data that automatically updates the user interface when values change. This library is designed to provide a straightforward way to build reactive applications.
 
 ## Features
 
@@ -13,21 +13,21 @@ Reactive DOM is a simple library for managing reactive states in TypeScript appl
 You can install the library using npm or yarn:
 
 ```bash
-npm install @ilyesh/reactive-dom
+npm install velt-dom
 ```
 or 
 ```bash
-yarn add @ilyesh/reactive-dom
+yarn add velt-dom
 ```
 or 
 ```bash
-pnpm add @ilyesh/reactive-dom
+pnpm add velt-dom
 ```
 
 # Getting Started
 To get started, you need to import the library and use its functions to create and manage reactive states. Here's a basic example of how to use the library:
 ```ts
-import { reactive, setReactivity } from 'my-ts-reactive-library';
+import { reactive, setReactivity } from 'velt-dom';
 
 // Create a reactive state with an initial value
 const count = reactive<number>(0);
