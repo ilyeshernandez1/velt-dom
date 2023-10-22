@@ -1,4 +1,4 @@
-# My TypeScript Reactive Library
+# @ilyesh/reactive-dom
 
 Reactive DOM is a simple library for managing reactive states in TypeScript applications. It allows you to create and manage reactive data that automatically updates the user interface when values change. This library is designed to provide a straightforward way to build reactive applications.
 
