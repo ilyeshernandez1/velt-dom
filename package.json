@@ -1,0 +1,26 @@
+{
+  "name": "@ilyesh/reactive-dom",
+  "version": "0.0.1",
+  "description": "Reactive DOM is a simple library for managing reactive states in TypeScript applications.",
+  "main": "library/dist/index.js",
+  "module": "library/dist/index.mjs",
+  "types": "library/dist/index.d.ts",
+  "scripts": {
+    "dev": "tsup"
+  },
+  "keywords": [
+    "typescript",
+    "javascript",
+    "ts",
+    "js",
+    "reactive",
+    "library"
+  ],
+  "author": "Ilyès Hernandez",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.8.7",
+    "tsup": "^7.2.0",
+    "typescript": "^5.2.2"
+  }
+}
